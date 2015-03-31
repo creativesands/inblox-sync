@@ -1,0 +1,11 @@
+{
+  "name": "inblox-sync",
+  "version": "1.0.0",
+  "description": "Inblox WS, REST, Sync Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sandeep, Shams",
+  "license": "ISC"
+}
